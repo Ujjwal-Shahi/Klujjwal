@@ -1,0 +1,8 @@
+{
+  "name": "NoBroker Call Quality Analyzer",
+  "description": "An intelligent tool that analyzes and scores sales call transcripts based on key performance parameters to help improve call quality for NoBroker's resale team.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
